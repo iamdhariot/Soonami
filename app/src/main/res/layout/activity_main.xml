@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="10dp"
+    android:layout_margin="5dp"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_margin="10dp"
+        android:id="@+id/eventTView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EVENT"
+
+        android:textSize="16sp"
+
+       />
+    <TextView
+        android:layout_margin="10dp"
+        android:id="@+id/title"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="M 6.0 - Neq Britain Region, Papua New Guinea "
+
+        android:textSize="14sp"
+
+        />
+    <TextView
+        android:layout_margin="10dp"
+        android:id="@+id/dateTView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DATE"
+
+        android:textSize="16sp"
+
+        />
+    <TextView
+        android:layout_margin="10dp"
+        android:id="@+id/date"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mon, 19 Nov 2012 at 03:44:34 CST"
+
+        android:textSize="14sp"
+
+        />
+    <TextView
+        android:layout_margin="10dp"
+        android:id="@+id/alertTView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TSUNAMI ALERT"
+
+        android:textSize="16sp"
+
+        />
+    <TextView
+        android:layout_margin="10dp"
+        android:id="@+id/alert"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No"
+
+        android:textSize="14sp"
+
+        />
+
+
+</LinearLayout>
