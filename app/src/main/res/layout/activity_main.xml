@@ -26,7 +26,7 @@
         android:textColor="@color/black"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="M 6.0 - Neq Britain Region, Papua New Guinea "
+        android:text=" "
 
         android:textSize="14sp"
 
@@ -47,7 +47,7 @@
         android:textColor="@color/black"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Mon, 19 Nov 2012 at 03:44:34 CST"
+        android:text=""
 
         android:textSize="14sp"
 
@@ -68,7 +68,7 @@
         android:textColor="@color/black"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="No"
+        android:text=""
 
         android:textSize="14sp"
 

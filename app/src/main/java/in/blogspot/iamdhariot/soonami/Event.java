@@ -4,13 +4,13 @@ public class Event {
 
 
     /** Title for earth quake event*/
-    private String title;
+    public String title;
     /**Time when its happend (in milliseconds)*/
-    private String time;
+    public long time;
     /** is it a alert or not? yes/no*/
-    private String alert;
+    public int alert;
 
-    public Event(String title, String time, String alert) {
+    public Event(String title, Long time, int alert) {
         this.title = title;
         this.time = time;
         this.alert = alert;
