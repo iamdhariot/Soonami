@@ -2,6 +2,7 @@ package in.blogspot.iamdhariot.soonami;
 
 public class Event {
 
+
     /** Title for earth quake event*/
     private String title;
     /**Time when its happend (in milliseconds)*/
